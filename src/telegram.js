@@ -81,6 +81,7 @@ class TelegramBot extends EventEmitter {
    * @type {Object}
    */
   static get errors() {
+    console.log("jiwoo manse");
     return errors;
   }
 
